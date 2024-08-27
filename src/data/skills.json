@@ -1,0 +1,34 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "badges/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "badges/css.png"
+  },
+  {
+    "title": "Javascript",
+    "imageSrc": "badges/js.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "badges/react.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "badges/node.png"
+  },
+  {
+    "title": "Git",
+    "imageSrc": "badges/gitlab.png"
+  },
+  {
+    "title": "Wordpress",
+    "imageSrc": "badges/wordpress.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "badges/figma.png"
+  }
+]

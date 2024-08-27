@@ -1,0 +1,42 @@
+[
+  {
+    "title": "WordPress Website",
+    "imageSrc": "projects/oc-charities.jpg",
+    "description": "Design and build of WordPress site that accepts donations.",
+    "skills": ["WordPress", "Figma", "pHp"],
+    "demo": "https://overcomerscharities.org/",
+    "source": "https://github.com/AliciaD925/"
+  },
+  {
+    "title": "Website Redesign",
+    "imageSrc": "projects/endelos.jpg",
+    "description": "Website redesign for payment processing company.",
+    "skills": ["CSS/HTML", "Bootstrap", "pHp"],
+    "demo": "https://endelos=pay.com/",
+    "source": "https://github.com/AliciaD925/endelos"
+  },
+  {
+    "title": "Landing Page Build",
+    "imageSrc": "projects/woz-partner.jpg",
+    "description": "Landing page built in WordPress site based off figma mockups.",
+    "skills": ["WordPress", "Figma", "pHp"],
+    "demo": "https://woz-u.com/partners/",
+    "source": "https://github.com/"
+  },
+  {
+    "title": "WordPress Page Build",
+    "imageSrc": "projects/sci.jpg",
+    "description": "Redesigned program page built on WordPress site with custom theme.",
+    "skills": ["WordPress", "Figma", "CSS"],
+    "demo": "https://scitexas.edu/",
+    "source": "https://github.com/"
+  },
+  {
+    "title": "Landing Page Build",
+    "imageSrc": "projects/hoft.jpg",
+    "description": "Landing page built to promote a new program.",
+    "skills": ["CSS", "Figma", "HTML"],
+    "demo": "https://www.hoft.edu/",
+    "source": "https://github.com/"
+  }
+]

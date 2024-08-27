@@ -1,0 +1,44 @@
+[
+  {
+    "role": "Website Developer",
+    "organization": "Freelance",
+    "startDate": "September 2023",
+    "endDate": "Present",
+    "experiences": [
+      "Building websites that exceed client expectations by developing a flawless UI front end experience and integration of back end technologies",
+      "Implementation of API integrations to allow desired functionally of websites, such as accepting donations from users",
+      "Set up site analytics to monitor and improve site design and user experience "
+    ]
+  },
+  {
+    "role": "Front End Developer & Project Manager",
+    "organization": "CB Surety",
+    "startDate": "August 2021",
+    "endDate": "October 2023",
+    "experiences": [
+      "Led a team of developers using agile methodologies to rebrand a payment processing company using pHp and laravel framework for the back end and HTML/CSS for front end",
+      "Preformed end to end testing ensuring implementation of new code worked without fault ensuring a seamless user experience",
+      "Wrote technical documents for integration procedures to set up payment processor via plugin or on website"
+    ]
+  },
+  {
+    "role": "Full Stack Developer",
+    "organization": "Southern Career Institute",
+    "startDate": "July 2020",
+    "endDate": "August 2021",
+    "experiences": [
+      "Implemented figma mockup designs in a customized WordPress theme utilizing HTML,CSS and JS to improve website design and create new landing pages",
+      "Identified user experience pain points using analytic tools (google analytics, inspectlet) to improve UX, increasing time on page, conversion rates and lowering abandonment rates "
+    ]
+  },
+  {
+    "role": "Full Stack Developer",
+    "organization": "Woz-U",
+    "startDate": "July 2020",
+    "endDate": "August 2021",
+    "experiences": [
+      "Built new pages based off design mockups in Wordpress site using Divi theme. Customizing CSS to improve overall user experience.",
+      "Conducted A/B testing using Google tools to monitor website performance, reporting results to the internal marketing team."
+    ]
+  }
+]

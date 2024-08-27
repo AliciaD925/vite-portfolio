@@ -1,0 +1,97 @@
+@import "../../vars.css";
+
+.container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  margin: 60px 10%;
+  color: var(--color-text);
+}
+
+.title {
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+
+.skills {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin-bottom: 50px;
+}
+
+.skillItem {
+  padding: 20px;
+}
+
+.skillImg {
+  background-color: var(--color-text);
+  border-radius: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 80px;
+  height: 80px;
+}
+
+.skillImg img {
+  width: 50px;
+}
+.skillItem p {
+  color: var(--color-text);
+  text-align: center;
+}
+
+.history {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  list-style: none;
+  margin: 0 10%;
+}
+
+.historyItem {
+  background: #720455;
+  background: linear-gradient(90deg, #720455 0%, rgba(25, 55, 109, 0) 100%);
+  border-radius: 10px;
+  padding: 25px;
+}
+
+.historyDetails {
+  font-family: var(--font-roboto);
+}
+
+.historyDetails h3 {
+  font-size: 22px;
+  margin-bottom: 5px;
+}
+
+.historyDetails p {
+  font-size: 16px;
+  font-weight: 300;
+  font-style: italic;
+  margin-bottom: 10px;
+}
+
+.historyDetails ul {
+  list-style-position: inside;
+  list-style-type: circle;
+  font-size: 18px;
+  font-weight: 300;
+  margin-left: 14px;
+  letter-spacing: 1.1px;
+  font-family: var(--font-poppins);
+  padding: 0 25px;
+}
+
+@media screen and (max-width: 830px) {
+  .container {
+    margin: 40px 5%;
+  }
+  .history {
+    margin: 0;
+    gap: 20px;
+  }
+}
